@@ -1,0 +1,13 @@
+NODE MODULES AND ITS TYPES
+#####FIle based MODULES
+-> The module.exports variable determines the export from the current module.
+-> The require function is used to import a module Node Modules.
+
+#####Core Modules (Built-In Modules)
+-> Partof Core Node 
+-> examples: Path, fs, os, util....
+
+#####External Node Modules 
+->Third-party Modules
+->Installed using NPM 
+->node_modules folder in your Node application.
